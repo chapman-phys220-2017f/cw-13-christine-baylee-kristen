@@ -55,7 +55,7 @@ As written, this will use ```numpy``` in a vectorized way as we have been using 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Its useful learning new code that speeds up functionality, especially since both the midterm and the final compiled lots of code.
 
 ## Honor Pledge
 
