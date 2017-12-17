@@ -1,6 +1,6 @@
 # PHYS220 CW 13 
 
-**Author(s):** **CHANGEME**
+**Author(s):** Christine Outlaw, Baylee Mumma
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-13-christine-baylee-kristen.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-13-christine-baylee-kristen)
 
@@ -66,4 +66,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Christine Outlaw, Baylee Mumma
